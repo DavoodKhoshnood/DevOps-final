@@ -1,0 +1,32 @@
+[
+  {
+    "userId": "639479a34cee8daaef20d631",
+    "fullName": "Ali Wilson",
+    "email": "awilson@gmail.com",
+    "city": "Birmingham",
+    "tel": "858-791-0877",
+    "status": true,
+    "country": "United Kingdom",
+    "gender": "Male"
+  },
+  {
+    "userId": "63947a1dc9f50ddbfea47399",
+    "fullName": "Mary Clark",
+    "email": "maryclk@gmail.com",
+    "city": "Kent",
+    "tel": "798-723-0854",
+    "status": true,
+    "country": "United Kingdom",
+    "gender": "Female"
+  },
+  {
+    "userId": "63947a2520ab84d6208779c4",
+    "fullName": "Nancy Green",
+    "email": "nanc_g@gmail.com",
+    "city": "London",
+    "tel": "791-791-3298",
+    "status": true,
+    "country": "United Kingdom",
+    "gender": "Female"
+  }
+]
